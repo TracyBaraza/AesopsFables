@@ -1,0 +1,130 @@
+<resources>
+    <string name="app_name">Aesop\'s Fables</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="title_activity_fable1">Fable1_Activity</string>
+    <string name="fable_1_text">
+        Long ago, the mice had a general council to consider what measures they could take to outwit their common enemy, the Cat.\n\n
+
+Some said this, and some said that; but at last a young mouse got up and said he had a proposal to make, which he thought would meet the case.\n\n
+
+"You will all agree," said he, "that our chief danger consists in the sly and treacherous manner in which the enemy approaches us. Now, if we could receive some signal of her approach, we could easily escape from her. I venture, therefore, to propose that a small bell be procured, and attached by a ribbon round the neck of the Cat. By this means we should always know when she was about, and could easily retire while she was in the neighbourhood."\n\n
+
+This proposal met with general applause, until an old mouse got up and said:\n\n
+
+"That is all very well, but who is to bell the Cat?"
+
+The mice looked at one another and nobody spoke. Then the old mouse said:
+
+"It is easy to propose impossible remedies"
+
+ </string>
+    <string name="title_activity_fable2">Fable2_Activity</string>
+    <string name="fable_2_text">
+        A quarrel had arisen between the Horse and the Stag, so the Horse came to a Hunter to ask his help to take revenge on the Stag.\n\n
+
+The Hunter agreed, but said: "If you desire to conquer the Stag, you must permit me to place this piece of iron between your jaws, so that I may guide you with these reins, and allow this saddle to be placed upon your back so that I may keep steady upon you as we follow after the enemy."
+
+The Horse agreed to the conditions, and the Hunter soon saddled and bridled him.\n\n
+
+Then with the aid of the Hunter the Horse soon overcame the Stag, and said to the Hunter: "Now, get off, and remove those things from my mouth and back."
+
+"Not so fast, friend," said the Hunter. "I have now got you under bit and spur, and prefer to keep you as you are at present."\n\n</string>
+    <string name="title_activity_fable3">Fable3_Activity</string>
+    <string name="fable_3_text">
+        On a summer day, when the great heat induced a general thirst, a Lion and a Boar came at the same moment to a small well to drink.\n\n
+
+They fiercely disputed which of them should drink first, and were soon engaged in the agonies of a mortal combat.\n\n
+
+On their stopping on a sudden to take breath for the fiercer renewal of the strife, they saw some Vultures waiting in the distance to feast on the one which should fall first.
+
+They at once made up their quarrel, saying:\n\n
+
+"It is better for us to make friends, than to become the food of Crows or Vultures, as will certainly happen if we are disabled."</string>
+
+
+    <string name="title_activity_fable4">Fable4_Activity</string>
+    <string name="fable_4_text">
+        The gods were once disputing whether it was possible for a living being to change its nature.\n\n
+
+Jupiter said "Yes," but Venus said "No." So, to try the question, Jupiter turned a Cat into a Maiden, and gave her to a young man for a wife.
+
+The wedding was duly performed and the young couple sat down to the wedding-feast.\n\n
+
+"See," said Jupiter, to Venus, "how becomingly she behaves. Who could tell that yesterday she was but a Cat? Surely her nature is changed?"
+
+"Wait a minute," replied Venus, and let loose a mouse into the room.\n\n
+
+No sooner did the bride see this than she jumped up from her seat and tried to pounce upon the mouse.
+
+"Ah, you see," said Venus, "Nature will out"
+
+ </string>
+    <string name="title_activity_fable5">Fable5_Activity</string>
+    <string name="fable_5_text">
+        It happened that a Dog had got a piece of meat and was carrying it home in his mouth to eat it in peace.
+
+Now on his way home he had to cross a plank lying across a running brook.
+
+As he crossed, he looked down and saw his own shadow reflected in the water beneath.
+
+        Thinking it was another dog with another piece of meat, he made up his mind to have that also.
+
+So he made a snap at the shadow in the water, but as he opened his mouth the piece of meat fell out, dropped into the water and was never seen more.</string>
+
+
+    <string name="title_activity_fable6">Fable6_Activity</string>
+    <string name="fable_6_text">
+        An Arab Camel-driver having completed the lading of his Camel, asked him which he would like best, to go up hill or down hill.
+
+The poor beast replied, not without a touch of reason: "Why do you ask me? Is it that the level way through the desert is closed?"</string>
+
+    <string name="title_activity_fable7">Fable7_Activity</string>
+    <string name="fable_7_text">
+        "Be quiet now," said an old Nurse to a child sitting on her lap.
+
+"If you make that noise again I will throw you to the Wolf."
+
+Now it chanced that a Wolf was passing close under the window as this was said.
+
+So he crouched down by the side of the house and waited.
+
+"I am in good luck to-day," thought he. "It is sure to cry soon, and a daintier morsel I haven't had for many a long day."
+
+So he waited, and he waited, and he waited, till at last the child began to cry, and the Wolf came forward before the window, and looked up to the Nurse, wagging his tail.
+
+But all the Nurse did was to shut down the window and call for help, and the dogs of the house came rushing out.
+
+"Ah," said the Wolf as he galloped away, "Enemies promises were made to be broken."</string>
+    <string name="title_activity_fable8">Fable8_Activity</string>
+    <string name="fable_8_text">In the old days, when men were allowed to have many wives, a middle-aged Man had one wife that was old and one that was young; each loved him very much, and desired to see him like herself.
+
+Now the Mans hair was turning grey, which the young Wife did not like, as it made him look too old for her husband.
+
+So every night she used to comb his hair and pick out the white ones.
+
+But the elder Wife saw her husband growing grey with great pleasure, for she did not like to be mistaken for his mother.
+
+So every morning she used to arrange his hair and pick out as many of the black ones as she could.
+
+The consequence was the Man soon found himself entirely bald.</string>
+
+    <string name="title_activity_fable9">Fable8_Activity</string>
+    <string name="fable_9_text">A Sailor, bound on a long voyage, took with him a Monkey to amuse him while on shipboard.
+
+    As he sailed off the coast of Greece, a violent tempest arose, in which the ship was wrecked, and he, his Monkey and all the crew were obliged to swim for their lives.
+
+    A Dolphin saw the Monkey contending with the waves, and supposing him to be a man (whom he is always said to befriend), came and placed himself under him, to convey him on his back in safety to the shore.
+
+    When the Dolphin arrived with his burden in sight of land not far from Athens, he demanded of the Monkey if he were an Athenian, who answered that he was, and that he was descended from one of the noblest families in that city.
+
+    The Dolphin then inquired if he knew the Piræus (the famous harbor of Athens).
+
+    The Monkey, supposing that a man was meant, and being obliged to support his previous lie, answered that he knew him very well, and that he was an intimate friend, who would, no doubt, be very glad to see him.
+
+    The Dolphin, indignant at these falsehoods, dipped the Monkey under the water, and drowned him.
+
+    </string>
+
+</resources>
